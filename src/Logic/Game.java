@@ -3,8 +3,9 @@ package Logic;
  *  Runs a Chess Game loop with two Players until one Player is declared the winner.
  *  @author Kevin Gomez kkgomez2@illinois.edu kevinkgomez.com
  */
-//TODO: Checkmate currently doesn't work.
+
 import java.util.Scanner;
+//TODO: Checkmate currently doesn't work.
 //faster way to debug checkmate
 //set up a testGame.java
 //with checkmate conditions 1 step away
